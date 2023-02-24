@@ -1,0 +1,57 @@
+#google_lens{
+margin-left: 450px;
+margin-top: -100px;
+}
+
+#google{
+float: left;
+margin-left: 260px;
+}
+
+.test_image_and_result{
+float: top;
+background-color: gray;
+border-radius: 20px;
+color: white;
+height: 550px;
+width: 1100px;
+margin-left: 100px;
+font-size: 20px;
+margin-top: 30px;
+box-shadow:  10px 10px 10px rgb(165, 165, 165);
+}
+.img1{
+width: 250px;
+height: 500px;
+}
+
+#text{
+margin-right: -600px;
+}
+
+.g_l{
+background-color: white;
+color:black;
+border-radius: 20px;
+height: 30px;
+width: 33%;
+padding-top: 7.5px;
+}
+
+.m_n{
+background-color: white;
+color:black;
+border-radius: 20px;
+height: 30px;
+padding-top: 7.5px;
+margin-left: 5px;
+width: 31%;
+}
+
+li{
+margin-left: 20px;
+}
+
+.g-n{
+color: purple;
+}
